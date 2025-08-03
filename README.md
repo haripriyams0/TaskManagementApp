@@ -1,5 +1,5 @@
-# CSTechInfo - Task Management System
-
+# Task Management System
+(CSTechInfo)
 A MERN stack application for managing customer service tasks with admin and agent roles.
 
 ## 🚀 Features
